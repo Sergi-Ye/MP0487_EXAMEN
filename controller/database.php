@@ -1,7 +1,7 @@
 <?php
 //https://phppot.com/php/php-upload-image-to-database/
 //https://www.youtube.com/watch?v=5L9UhOnuos0&t=801s
-//Credenciales que usaremos para entrar en la bbdd
+//Credenciales que usaremos para entrar en la bbdd prueba
 
 $host ="localhost";
 $dbname = "mp0487_firalia";
